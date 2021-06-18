@@ -23,4 +23,4 @@ Na pasta trab2/ estão os codigos da implementação do segundo trabalho da mesm
 - karate.txt: arquivo que descreve o grafo "karate" no formato de lista de arestas
 - soc-dolphins.mtx e soc-karate.mtx: arquivos descrevendo repectivamente os grafos "dolphins" e "karate" baixados de <a href="networkrepository.com/">networkrepository.com/</a>
 
-<a href="https://youtu.be/JnGpOM-5T68">Video apresentação de</a>
+<a href="https://youtu.be/JnGpOM-5T68">Video de apresentação</a>
