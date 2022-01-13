@@ -21,6 +21,6 @@ Na pasta trab2/ estão os códigos da implementação do segundo trabalho da mes
 - dolphinsProc.png: plot do grafo "dolphins" depois de processado pelo algorítimo
 - dolphins.txt: arquivo que descreve o grafo "dolphins" no formato de lista de arestas
 - karate.txt: arquivo que descreve o grafo "karate" no formato de lista de arestas
-- soc-dolphins.mtx e soc-karate.mtx: arquivos descrevendo respectivamente os grafos "dolphins" e "karate" baixados de <a href="networkrepository.com/">networkrepository.com/</a>
+- soc-dolphins.mtx e soc-karate.mtx: arquivos descrevendo respectivamente os grafos "dolphins" e "karate" baixados de <a href="https://networkrepository.com/">networkrepository.com/</a>
 
 <a href="https://youtu.be/JnGpOM-5T68">Video de apresentação</a>
